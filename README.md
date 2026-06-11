@@ -4,7 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xAp_h8hw1-2URPO2CyMe8mhS-jJblv-?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![scikit-bio](https://img.shields.io/badge/scikit--bio-0.7.0-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ---
 
