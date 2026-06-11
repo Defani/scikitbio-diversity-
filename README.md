@@ -1,4 +1,4 @@
-# Analisis Keanekaragaman Herpetofauna Taman Nasional Bali Barat
+# Analisis Keanekaragaman Herpetofauna Taman Nasional Bali Barat Menggunakan Library Scikit-Bio Python
 ### Tutorial Alpha Diversity menggunakan scikit-bio
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xAp_h8hw1-2URPO2CyMe8mhS-jJblv-?usp=sharing)
